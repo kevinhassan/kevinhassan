@@ -38,6 +38,8 @@ An open source project
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kevinhassan&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/kevinhassan/kevinhassan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhassan&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhassan&theme=dark&layout=compact" />
 </a>
 
+## 🏆 Some trophies: 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevinhassan&row=1)](https://github.com/kevinhassan/github-profile-trophy)
