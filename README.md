@@ -3,19 +3,18 @@ I'm [Kévin HASSAN](https://github.com/kevinhassan) 👋, 🇫🇷 software engi
 <br>
 I'm currently working at Montpellier, France 🏖☀️😎. 
 <br>
-What describes me the best? Only this words: 
+What describes me the best? 
+
 - Curious 😯 
 - Motivated 👨🏻‍💻
 - Dreamer ☁️
 - Dazed 😅
 
-My belief: **Fight routine 👊 and face challenges**
-
 ## 🔭 I’m currently working on:
-Can't say for now ... 🙊
+VueJS video streaming application on Smart TV
 
 ## 🔭 I'm talking in:
-- Javascript  ♥️
+- Javascript ♥️ (Node, React) ♥️
 - Swift 
 - Golang
 
