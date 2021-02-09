@@ -27,6 +27,7 @@ VueJS video streaming application on Smart TV
 - Vue
 - NextJS
 - Flutter
+- Front new generation Tooling (Snowpack, Vite)
 
 ## 👯 I’m looking to collaborate on:
 An open source project
