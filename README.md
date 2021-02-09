@@ -17,14 +17,15 @@ VueJS video streaming application on Smart TV
 
 
 ## 🔭 I'm talking in:
-- Javascript ♥️ (Node, React) ♥️
+- Javascript (NodeJS, ReactJS, VueJS)
 - Swift 
 - Golang
 
 
 ## 🌱 I’m currently learning:
-- Deno 
-- Rust
+- Deno (♥️)
+- Vue
+- NextJS
 - Flutter
 
 ## 👯 I’m looking to collaborate on:
