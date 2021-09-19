@@ -13,21 +13,19 @@ What describes me the best?
 
 
 ## 🔭 I’m currently working on:
-VueJS video streaming application on Smart TV
+...
 
 
 ## 🔭 I'm talking in:
 - Javascript (NodeJS, ReactJS, VueJS)
 - Swift 
-- Golang
-
+- Scala
 
 ## 🌱 I’m currently learning:
-- Deno (♥️)
-- Vue
+- Deno
 - NextJS
 - Flutter
-- Front new generation Tooling (Snowpack, Vite)
+- Vite
 
 ## 👯 I’m looking to collaborate on:
 An open source project
