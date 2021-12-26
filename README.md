@@ -1,8 +1,9 @@
 # Hi there, welcome to my Github! 
 
-I'm [Kévin HASSAN](https://github.com/kevinhassan) 👋, 🇫🇷 FullStack software engineer👨‍💻
+I'm [Kévin HASSAN](https://github.com/kevinhassan) 👋, 
+🇫🇷 FullStack software engineer👨‍💻
 <br>
-I'm currently working at Montpellier, France 🏖☀️😎. 
+I'm working at Montpellier, France 🏖☀️😎. 
 <br>
 What describes me the best? 
 
