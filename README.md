@@ -1,6 +1,6 @@
 # Hi there, welcome to my Github! 
 
-I'm [Kévin HASSAN](https://github.com/kevinhassan) 👋, 🇫🇷 software engineer👨‍💻
+I'm [Kévin HASSAN](https://github.com/kevinhassan) 👋, 🇫🇷 FullStack software engineer👨‍💻
 <br>
 I'm currently working at Montpellier, France 🏖☀️😎. 
 <br>
@@ -8,24 +8,20 @@ What describes me the best?
 
 - Curious 😯 
 - Motivated 👨🏻‍💻
-- Dreamer ☁️
-- Dazed 😅
-
+- Worker 💪
 
 ## 🔭 I’m currently working on:
 ...
 
-
 ## 🔭 I'm talking in:
-- Javascript (NodeJS, ReactJS, VueJS)
-- Swift 
+- Javascript / Typescript (NodeJS, ReactJS, VueJS)
 - Scala
+- Swift 
+- Dart
 
 ## 🌱 I’m currently learning:
-- Deno
-- NextJS
-- Flutter
-- Vite
+- Flutter (1)
+- Vite (2)
 
 ## 👯 I’m looking to collaborate on:
 An open source project
