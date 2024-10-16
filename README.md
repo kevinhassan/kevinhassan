@@ -11,14 +11,15 @@ I'm searching for a new adventure ! ⛵️🌊
 Teads, Montpellier, France
 
 ## 🔭 I'm talking in:
-- Javascript / Typescript (NodeJS, ReactJS, VueJS)
+- NodeJS
+- ReactJS
+- VueJS
+- NextJS
 - Scala
 - Swift 
-- Dart
 
 ## 🌱 I’m currently learning:
-- NextJS (1)
-- Rust (2)
+
 
 ## 👯 I’m looking to collaborate on:
 An open source project
